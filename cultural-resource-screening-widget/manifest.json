@@ -1,0 +1,22 @@
+{
+  "name": "cultural-resource-screening-widget",
+  "label": "Cultural Resource Screening Tool",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "MWT THPO",
+  "description": "Draw a circle, rectangle, or polygon around a project area and screen configured cultural-resource layers for intersections.",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 430,
+    "height": 620
+  }
+}

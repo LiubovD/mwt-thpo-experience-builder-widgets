@@ -1,0 +1,31 @@
+{
+  "broadbandLayerTitle": "MWT Broadband Lines",
+  "checkBroadbandPresence": true,
+  "checks": [
+    {
+      "label": "Native Burial Grounds",
+      "layerTitle": "Native Burial Grounds",
+      "enabled": true
+    },
+    {
+      "label": "MHC Inventory Points",
+      "layerTitle": "MHC Inventory Points",
+      "enabled": true
+    },
+    {
+      "label": "Forest No-Disturbance Area",
+      "layerTitle": "Forest No Disturb Area",
+      "enabled": true
+    },
+    {
+      "label": "Burial Protection Buffer 50ft",
+      "layerTitle": "Burial Protection Buffer 50ft",
+      "enabled": true
+    },
+    {
+      "label": "Burial Sites Digitized",
+      "layerTitle": "Burial sites digitized",
+      "enabled": true
+    }
+  ]
+}
